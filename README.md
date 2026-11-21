@@ -21,8 +21,13 @@ Fingerprint of the repository key (SHA-256):
 BB1709DC3912D984DF24876838BCF2A168500F2072516125BA6C3BF942E1731E
 ```
 
-In the F-Droid app: **Settings → Repositories → +**, then paste the address. The client checks
-the fingerprint the first time it connects.
+<a href="repo/index.png"><img src="repo/index.png" width="200" alt="QR code to add the HexRelic repository"></a>
+
+On your phone, scan the QR code with F-Droid (**Settings → Repositories → +**, then the QR
+button) or Droid-ify, or open
+[this link](https://fdroid.link/#https://hexrelic.github.io/fdroid/repo?fingerprint=BB1709DC3912D984DF24876838BCF2A168500F2072516125BA6C3BF942E1731E),
+which adds the address and fingerprint in one step. You can also paste the address by hand;
+the client checks the fingerprint the first time it connects.
 
 ## What is published here
 
