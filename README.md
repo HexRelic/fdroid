@@ -1,4 +1,8 @@
-# HexRelic F-Droid repository
+<p align="center">
+  <img src="repo-icon.png" width="128" alt="HexRelic repository icon">
+</p>
+
+<h1 align="center">HexRelic F-Droid repository</h1>
 
 Apps by HexRelic, ready to install and update from any F-Droid client (F-Droid, Droid-ify,
 Neo Store).
