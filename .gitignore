@@ -1,0 +1,16 @@
+# Private: holds the repository key passwords and machine paths.
+config.yml
+*.p12
+*.jks
+*.keystore
+keystore*
+
+# Working files of fdroidserver, not part of the published repository.
+tmp/
+unsigned/
+build/
+stats/
+repo/status/
+archive/status/
+*.bak
+*~

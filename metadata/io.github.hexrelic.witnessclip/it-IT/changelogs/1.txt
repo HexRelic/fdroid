@@ -1,0 +1,8 @@
+Prima versione.
+
+• Registrazione senza perdita a 48 kHz / 24 bit, mono o stereo, dal microfono del telefono, con filo, USB o Bluetooth
+• Ogni secondo sigillato durante la registrazione, firmato da una chiave hardware
+• Marche temporali qualificate UE all'inizio, ogni 5 minuti e alla fine
+• FLAC autoverificabile, rapporto PDF/A e pacchetto di prova ASiC-E
+• Verificatore integrato
+• Italiano e inglese

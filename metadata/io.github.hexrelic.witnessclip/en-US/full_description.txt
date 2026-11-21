@@ -1,0 +1,23 @@
+WitnessClip records a conversation you take part in and seals it while it is being recorded, so that anyone can later check that the audio has not been changed and when it was made.
+
+<b>What you get</b>
+• One audio file (.flac) that plays everywhere and carries its own proof inside
+• A date and time certified by qualified EU timestamp services, at no cost
+• A report in PDF/A and a standard evidence package (ASiC-E) for your lawyer
+• Verification that works without this app, with standard tools
+
+<b>How it works</b>
+• Every second of audio is hashed and signed by a key kept in the phone's secure hardware
+• No pause, no editing: only start, stop, mark a moment, add a note
+• Keeps recording with the screen off; every interruption is declared in the proof
+• Phone, wired, USB or Bluetooth microphone; mono or stereo; lossless 48 kHz
+
+<b>Privacy</b>
+• Works offline. Audio never leaves your phone unless you export it
+• The only network traffic is a short fingerprint sent to the timestamp services
+• No account, no ads, no analytics
+• Optional app lock and optional location, both off by default
+
+Record only conversations you take part in. Whether and how a recording can be used is a legal question: ask a lawyer.
+
+Free and open-source software (GPL-3.0-or-later), built reproducibly.

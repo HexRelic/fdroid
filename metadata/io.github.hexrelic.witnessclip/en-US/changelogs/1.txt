@@ -1,0 +1,8 @@
+First release.
+
+• Lossless 48 kHz / 24-bit recording, mono or stereo, from the phone, wired, USB or Bluetooth microphone
+• Every second sealed while recording, signed by a hardware key
+• EU qualified timestamps at the start, every 5 minutes and at the end
+• Self-proving FLAC, PDF/A report and ASiC-E evidence package
+• Built-in verifier
+• English and Italian

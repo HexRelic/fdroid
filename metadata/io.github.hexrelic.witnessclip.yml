@@ -1,0 +1,16 @@
+Categories:
+  - Recorder
+  - Security
+License: GPL-3.0-or-later
+AuthorName: HexRelic
+WebSite: https://github.com/HexRelic/WitnessClip
+SourceCode: https://github.com/HexRelic/WitnessClip
+IssueTracker: https://github.com/HexRelic/WitnessClip/issues
+Changelog: https://github.com/HexRelic/WitnessClip/blob/HEAD/CHANGELOG.md
+
+Name: WitnessClip
+
+AllowedAPKSigningKeys: 5888f7dd3fdd8fedb70c0b6bfb7a2e8d7b000d431c0732e687587afa91147eed
+
+AutoUpdateMode: None
+UpdateCheckMode: None

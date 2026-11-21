@@ -1,0 +1,23 @@
+WitnessClip registra una conversazione a cui partecipi e la sigilla mentre viene registrata, così chiunque potrà poi verificare che l'audio non è stato modificato e quando è stato fatto.
+
+<b>Cosa ottieni</b>
+• Un unico file audio (.flac) che si ascolta ovunque e contiene al suo interno la prova
+• Data e ora certificate da servizi europei qualificati di marca temporale, senza costi
+• Una relazione in PDF/A e un pacchetto di prova standard (ASiC-E) per il tuo avvocato
+• Verifica possibile senza questa app, con strumenti standard
+
+<b>Come funziona</b>
+• Ogni secondo di audio viene firmato da una chiave custodita nell'hardware sicuro del telefono
+• Niente pausa, niente modifiche: solo avvia, ferma, segna un momento, aggiungi una nota
+• Continua a registrare a schermo spento; ogni interruzione è dichiarata nella prova
+• Microfono del telefono, a filo, USB o Bluetooth; mono o stereo; 48 kHz senza perdita
+
+<b>Riservatezza</b>
+• Funziona senza rete. L'audio non lascia mai il telefono, a meno che tu non lo esporti
+• L'unico traffico di rete è una breve impronta inviata ai servizi di marca temporale
+• Nessun account, nessuna pubblicità, nessuna statistica
+• Blocco dell'app e posizione facoltativi, entrambi disattivati all'inizio
+
+Registra solo conversazioni a cui partecipi. Se e come una registrazione può essere usata è una questione legale: chiedi a un avvocato.
+
+Software libero e a codice aperto (GPL-3.0-or-later), con compilazione riproducibile.
