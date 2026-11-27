@@ -1,0 +1,8 @@
+First public release.
+
+• Shreds files and folders with five overwrite schedules and an optional read-back check
+• Wipes free space and removes its filler even after an interrupted run
+• Strips photo metadata from JPEG and PNG, keeping orientation and colours
+• Shred with Scorch from any app's Open with or Share menu
+• Previews, file type icons and hidden characters in names spelled out
+• App lock, typed confirmation, no network permission

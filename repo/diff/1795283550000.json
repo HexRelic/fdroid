@@ -1,0 +1,140 @@
+{
+  "repo": {
+    "timestamp": 1795822277000
+  },
+  "packages": {
+    "io.github.hexrelic.scorch": {
+      "metadata": {
+        "added": 1795822277000,
+        "categories": [
+          "Security"
+        ],
+        "changelog": "https://github.com/HexRelic/scorch/blob/HEAD/CHANGELOG.md",
+        "issueTracker": "https://github.com/HexRelic/scorch/issues",
+        "lastUpdated": 1795822277000,
+        "license": "GPL-3.0-or-later",
+        "sourceCode": "https://github.com/HexRelic/scorch",
+        "webSite": "https://hexrelic.github.io/scorch/",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/io.github.hexrelic.scorch/en-US/phoneScreenshots/1.png",
+                "sha256": "7e51abdc6acb43c64d108c4cff508d33cf8774d3c0564176aae6e7c8ce1a7b5b",
+                "size": 125178
+              },
+              {
+                "name": "/io.github.hexrelic.scorch/en-US/phoneScreenshots/2.png",
+                "sha256": "44092bb4a9269eb431276127159d43d95f8170b7317d0e892644c3c9df27bfab",
+                "size": 94667
+              },
+              {
+                "name": "/io.github.hexrelic.scorch/en-US/phoneScreenshots/3.png",
+                "sha256": "5451d160c1f5b27ec1992b2172f05a8eb8b961b1cf48091572bc9e13f637ccf5",
+                "size": 158179
+              },
+              {
+                "name": "/io.github.hexrelic.scorch/en-US/phoneScreenshots/4.png",
+                "sha256": "ca24dcd8d803f5854b68604b8b0c571b674001cea563ca81eacfd178d480b77f",
+                "size": 97115
+              },
+              {
+                "name": "/io.github.hexrelic.scorch/en-US/phoneScreenshots/5.png",
+                "sha256": "9ab1feec602cac138248f610e2741d88bd8dfb3f3d5a1beec8248f8547924864",
+                "size": 150325
+              }
+            ]
+          }
+        },
+        "authorName": "HexRelic",
+        "name": {
+          "en-US": "Scorch"
+        },
+        "summary": {
+          "en-US": "Offline file shredder: overwrite, wipe free space, strip photo metadata",
+          "it-IT": "Distruggi file offline: sovrascrivi, pulisci lo spazio libero, togli i metadati"
+        },
+        "description": {
+          "en-US": "Scorch overwrites files before deleting them, wipes the free space other apps left behind, and strips hidden metadata from photos. It works entirely offline.\n\n<b>What it does</b>\n• Shreds files and folders: overwritten in place pass by pass, checked, renamed, truncated and deleted\n• Five overwrite schedules, labelled honestly (on a phone, one random pass is the sensible choice)\n• Wipes free space, overwriting what's left of files other apps deleted\n• Removes EXIF (GPS included), XMP, comments and hidden extra pictures from JPEG and PNG, without re-encoding and keeping orientation and colours\n• \"Shred with Scorch\" in the Open with and Share menus of other apps\n• Previews and file type icons, so you see exactly what you are about to destroy\n\n<b>Privacy</b>\n• No network permission, no trackers, no Play Services\n• Fingerprint or screen lock check and a typed SHRED before every job\n• Screenshots blocked by default\n\n<b>Limits</b>\nPhones store data on flash memory, and no app can guarantee the old bytes are physically gone. If something must never be recovered, keep it encrypted from the start; a factory reset is the strongest wipe a phone offers. Scorch doesn't protect 100% against advanced forensic techniques, and every pass adds wear to the flash. The app explains this in About.\n\nScorch needs the \"All files access\" permission. The app is in English.\n\nFree and open-source software (GPL-3.0-or-later), built reproducibly.\n",
+          "it-IT": "Scorch sovrascrive i file prima di cancellarli, pulisce lo spazio libero lasciato dalle altre app e toglie i metadati nascosti dalle foto. Funziona completamente offline.\n\n<b>Cosa fa</b>\n• Distrugge file e cartelle: sovrascritti sul posto passata per passata, verificati, rinominati, troncati e cancellati\n• Cinque schemi di sovrascrittura, descritti onestamente (su un telefono una passata casuale è la scelta sensata)\n• Pulisce lo spazio libero, sovrascrivendo ciò che resta dei file cancellati da altre app\n• Toglie EXIF (posizione GPS compresa), XMP, commenti e immagini extra nascoste da JPEG e PNG, senza ricodificare e mantenendo orientamento e colori\n• \"Shred with Scorch\" nei menu Apri con e Condividi delle altre app\n• Anteprime e icone per tipo di file, per vedere esattamente cosa stai per distruggere\n\n<b>Riservatezza</b>\n• Nessun permesso di rete, nessun tracciamento, nessun Play Services\n• Impronta o blocco schermo e la parola SHRED digitata prima di ogni operazione\n• Screenshot bloccati in partenza\n\n<b>Limiti</b>\nI telefoni salvano i dati su memoria flash, e nessuna app può garantire che i vecchi byte siano fisicamente spariti. Se qualcosa non deve mai essere recuperato, tienilo cifrato fin dall'inizio; il ripristino di fabbrica è la cancellazione più sicura che un telefono offre. Scorch non protegge al 100% dalle tecniche forensi avanzate, e ogni passata consuma un po' la memoria flash. L'app lo spiega nella schermata About.\n\nScorch richiede il permesso \"Accesso a tutti i file\". L'app è in inglese; informativa privacy e condizioni d'uso sono anche in italiano.\n\nSoftware libero e a codice aperto (GPL-3.0-or-later), con compilazione riproducibile.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/io.github.hexrelic.scorch/en-US/icon_EwHa0QObdIY74GDBvG2teBpcg0ftcuLcJjmUxUiCFPQ=.png",
+            "sha256": "1301dad1039b74863be060c1bc6dad781a5c8347ed72e2dc263994c5488214f4",
+            "size": 14174
+          }
+        },
+        "preferredSigner": "607117b135d6e41f27c0f93a6497be6885a1074798d9ec2d5d5fad1872437f28"
+      },
+      "versions": {
+        "8b6fc218355077c37f3bea0c63e82e4585b81b9e76fac722879f01d3fac4b437": {
+          "added": 1795822277000,
+          "file": {
+            "name": "/scorch-1.0.0.apk",
+            "sha256": "8b6fc218355077c37f3bea0c63e82e4585b81b9e76fac722879f01d3fac4b437",
+            "size": 2320553
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.0",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "607117b135d6e41f27c0f93a6497be6885a1074798d9ec2d5d5fad1872437f28"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "io.github.hexrelic.scorch.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "io.github.hexrelic.witnessclip": {
+      "metadata": {
+        "webSite": "https://hexrelic.github.io/witnessclip/"
+      }
+    }
+  }
+}

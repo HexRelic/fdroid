@@ -1,0 +1,8 @@
+Prima versione pubblica.
+
+• Distrugge file e cartelle con cinque schemi di sovrascrittura e una verifica facoltativa
+• Pulisce lo spazio libero e rimuove i file di riempimento anche dopo un'interruzione
+• Toglie i metadati da JPEG e PNG, mantenendo orientamento e colori
+• Shred with Scorch dai menu Apri con e Condividi di qualsiasi app
+• Anteprime, icone per tipo di file e caratteri nascosti nei nomi messi in evidenza
+• Blocco dell'app, conferma digitata, nessun permesso di rete

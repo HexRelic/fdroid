@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1795283550000,
+    "timestamp": 1795822277000,
     "version": 20002,
     "name": "HexRelic",
     "icon": "repo-icon.png",
@@ -12,6 +12,47 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "allowedAPKSigningKeys": [
+        "607117b135d6e41f27c0f93a6497be6885a1074798d9ec2d5d5fad1872437f28"
+      ],
+      "authorName": "HexRelic",
+      "categories": [
+        "Security"
+      ],
+      "changelog": "https://github.com/HexRelic/scorch/blob/HEAD/CHANGELOG.md",
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/HexRelic/scorch/issues",
+      "license": "GPL-3.0-or-later",
+      "name": "Scorch",
+      "sourceCode": "https://github.com/HexRelic/scorch",
+      "webSite": "https://hexrelic.github.io/scorch/",
+      "added": 1795822277000,
+      "packageName": "io.github.hexrelic.scorch",
+      "lastUpdated": 1795822277000,
+      "localized": {
+        "en-US": {
+          "description": "Scorch overwrites files before deleting them, wipes the free space other apps left behind, and strips hidden metadata from photos. It works entirely offline.\n\n<b>What it does</b>\n\u2022 Shreds files and folders: overwritten in place pass by pass, checked, renamed, truncated and deleted\n\u2022 Five overwrite schedules, labelled honestly (on a phone, one random pass is the sensible choice)\n\u2022 Wipes free space, overwriting what's left of files other apps deleted\n\u2022 Removes EXIF (GPS included), XMP, comments and hidden extra pictures from JPEG and PNG, without re-encoding and keeping orientation and colours\n\u2022 \"Shred with Scorch\" in the Open with and Share menus of other apps\n\u2022 Previews and file type icons, so you see exactly what you are about to destroy\n\n<b>Privacy</b>\n\u2022 No network permission, no trackers, no Play Services\n\u2022 Fingerprint or screen lock check and a typed SHRED before every job\n\u2022 Screenshots blocked by default\n\n<b>Limits</b>\nPhones store data on flash memory, and no app can guarantee the old bytes are physically gone. If something must never be recovered, keep it encrypted from the start; a factory reset is the strongest wipe a phone offers. Scorch doesn't protect 100% against advanced forensic techniques, and every pass adds wear to the flash. The app explains this in About.\n\nScorch needs the \"All files access\" permission. The app is in English.\n\nFree and open-source software (GPL-3.0-or-later), built reproducibly.\n",
+          "icon": "icon_EwHa0QObdIY74GDBvG2teBpcg0ftcuLcJjmUxUiCFPQ=.png",
+          "name": "Scorch",
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png"
+          ],
+          "summary": "Offline file shredder: overwrite, wipe free space, strip photo metadata",
+          "whatsNew": "First public release.\n\n\u2022 Shreds files and folders with five overwrite schedules and an optional read-back check\n\u2022 Wipes free space and removes its filler even after an interrupted run\n\u2022 Strips photo metadata from JPEG and PNG, keeping orientation and colours\n\u2022 Shred with Scorch from any app's Open with or Share menu\n\u2022 Previews, file type icons and hidden characters in names spelled out\n\u2022 App lock, typed confirmation, no network permission\n"
+        },
+        "it-IT": {
+          "description": "Scorch sovrascrive i file prima di cancellarli, pulisce lo spazio libero lasciato dalle altre app e toglie i metadati nascosti dalle foto. Funziona completamente offline.\n\n<b>Cosa fa</b>\n\u2022 Distrugge file e cartelle: sovrascritti sul posto passata per passata, verificati, rinominati, troncati e cancellati\n\u2022 Cinque schemi di sovrascrittura, descritti onestamente (su un telefono una passata casuale \u00e8 la scelta sensata)\n\u2022 Pulisce lo spazio libero, sovrascrivendo ci\u00f2 che resta dei file cancellati da altre app\n\u2022 Toglie EXIF (posizione GPS compresa), XMP, commenti e immagini extra nascoste da JPEG e PNG, senza ricodificare e mantenendo orientamento e colori\n\u2022 \"Shred with Scorch\" nei menu Apri con e Condividi delle altre app\n\u2022 Anteprime e icone per tipo di file, per vedere esattamente cosa stai per distruggere\n\n<b>Riservatezza</b>\n\u2022 Nessun permesso di rete, nessun tracciamento, nessun Play Services\n\u2022 Impronta o blocco schermo e la parola SHRED digitata prima di ogni operazione\n\u2022 Screenshot bloccati in partenza\n\n<b>Limiti</b>\nI telefoni salvano i dati su memoria flash, e nessuna app pu\u00f2 garantire che i vecchi byte siano fisicamente spariti. Se qualcosa non deve mai essere recuperato, tienilo cifrato fin dall'inizio; il ripristino di fabbrica \u00e8 la cancellazione pi\u00f9 sicura che un telefono offre. Scorch non protegge al 100% dalle tecniche forensi avanzate, e ogni passata consuma un po' la memoria flash. L'app lo spiega nella schermata About.\n\nScorch richiede il permesso \"Accesso a tutti i file\". L'app \u00e8 in inglese; informativa privacy e condizioni d'uso sono anche in italiano.\n\nSoftware libero e a codice aperto (GPL-3.0-or-later), con compilazione riproducibile.\n",
+          "name": "Scorch",
+          "summary": "Distruggi file offline: sovrascrivi, pulisci lo spazio libero, togli i metadati",
+          "whatsNew": "Prima versione pubblica.\n\n\u2022 Distrugge file e cartelle con cinque schemi di sovrascrittura e una verifica facoltativa\n\u2022 Pulisce lo spazio libero e rimuove i file di riempimento anche dopo un'interruzione\n\u2022 Toglie i metadati da JPEG e PNG, mantenendo orientamento e colori\n\u2022 Shred with Scorch dai menu Apri con e Condividi di qualsiasi app\n\u2022 Anteprime, icone per tipo di file e caratteri nascosti nei nomi messi in evidenza\n\u2022 Blocco dell'app, conferma digitata, nessun permesso di rete\n"
+        }
+      }
+    },
     {
       "allowedAPKSigningKeys": [
         "5888f7dd3fdd8fedb70c0b6bfb7a2e8d7b000d431c0732e687587afa91147eed"
@@ -27,7 +68,7 @@
       "license": "GPL-3.0-or-later",
       "name": "WitnessClip",
       "sourceCode": "https://github.com/HexRelic/WitnessClip",
-      "webSite": "https://github.com/HexRelic/WitnessClip",
+      "webSite": "https://hexrelic.github.io/witnessclip/",
       "added": 1795282427000,
       "packageName": "io.github.hexrelic.witnessclip",
       "lastUpdated": 1795282427000,
@@ -57,6 +98,70 @@
     }
   ],
   "packages": {
+    "io.github.hexrelic.scorch": [
+      {
+        "added": 1795822277000,
+        "apkName": "scorch-1.0.0.apk",
+        "hash": "8b6fc218355077c37f3bea0c63e82e4585b81b9e76fac722879f01d3fac4b437",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.github.hexrelic.scorch",
+        "sig": "ddbd3b4dfcf5dc6e7770637136d8c234",
+        "signer": "607117b135d6e41f27c0f93a6497be6885a1074798d9ec2d5d5fad1872437f28",
+        "size": 2320553,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            28
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "io.github.hexrelic.scorch.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "1.0.0"
+      }
+    ],
     "io.github.hexrelic.witnessclip": [
       {
         "added": 1795282427000,

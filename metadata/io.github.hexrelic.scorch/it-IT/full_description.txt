@@ -1,0 +1,21 @@
+Scorch sovrascrive i file prima di cancellarli, pulisce lo spazio libero lasciato dalle altre app e toglie i metadati nascosti dalle foto. Funziona completamente offline.
+
+<b>Cosa fa</b>
+• Distrugge file e cartelle: sovrascritti sul posto passata per passata, verificati, rinominati, troncati e cancellati
+• Cinque schemi di sovrascrittura, descritti onestamente (su un telefono una passata casuale è la scelta sensata)
+• Pulisce lo spazio libero, sovrascrivendo ciò che resta dei file cancellati da altre app
+• Toglie EXIF (posizione GPS compresa), XMP, commenti e immagini extra nascoste da JPEG e PNG, senza ricodificare e mantenendo orientamento e colori
+• "Shred with Scorch" nei menu Apri con e Condividi delle altre app
+• Anteprime e icone per tipo di file, per vedere esattamente cosa stai per distruggere
+
+<b>Riservatezza</b>
+• Nessun permesso di rete, nessun tracciamento, nessun Play Services
+• Impronta o blocco schermo e la parola SHRED digitata prima di ogni operazione
+• Screenshot bloccati in partenza
+
+<b>Limiti</b>
+I telefoni salvano i dati su memoria flash, e nessuna app può garantire che i vecchi byte siano fisicamente spariti. Se qualcosa non deve mai essere recuperato, tienilo cifrato fin dall'inizio; il ripristino di fabbrica è la cancellazione più sicura che un telefono offre. Scorch non protegge al 100% dalle tecniche forensi avanzate, e ogni passata consuma un po' la memoria flash. L'app lo spiega nella schermata About.
+
+Scorch richiede il permesso "Accesso a tutti i file". L'app è in inglese; informativa privacy e condizioni d'uso sono anche in italiano.
+
+Software libero e a codice aperto (GPL-3.0-or-later), con compilazione riproducibile.

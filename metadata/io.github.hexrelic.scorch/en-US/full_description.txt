@@ -1,0 +1,21 @@
+Scorch overwrites files before deleting them, wipes the free space other apps left behind, and strips hidden metadata from photos. It works entirely offline.
+
+<b>What it does</b>
+• Shreds files and folders: overwritten in place pass by pass, checked, renamed, truncated and deleted
+• Five overwrite schedules, labelled honestly (on a phone, one random pass is the sensible choice)
+• Wipes free space, overwriting what's left of files other apps deleted
+• Removes EXIF (GPS included), XMP, comments and hidden extra pictures from JPEG and PNG, without re-encoding and keeping orientation and colours
+• "Shred with Scorch" in the Open with and Share menus of other apps
+• Previews and file type icons, so you see exactly what you are about to destroy
+
+<b>Privacy</b>
+• No network permission, no trackers, no Play Services
+• Fingerprint or screen lock check and a typed SHRED before every job
+• Screenshots blocked by default
+
+<b>Limits</b>
+Phones store data on flash memory, and no app can guarantee the old bytes are physically gone. If something must never be recovered, keep it encrypted from the start; a factory reset is the strongest wipe a phone offers. Scorch doesn't protect 100% against advanced forensic techniques, and every pass adds wear to the flash. The app explains this in About.
+
+Scorch needs the "All files access" permission. The app is in English.
+
+Free and open-source software (GPL-3.0-or-later), built reproducibly.

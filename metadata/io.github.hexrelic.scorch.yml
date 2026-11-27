@@ -1,0 +1,15 @@
+Categories:
+  - Security
+License: GPL-3.0-or-later
+AuthorName: HexRelic
+WebSite: https://hexrelic.github.io/scorch/
+SourceCode: https://github.com/HexRelic/scorch
+IssueTracker: https://github.com/HexRelic/scorch/issues
+Changelog: https://github.com/HexRelic/scorch/blob/HEAD/CHANGELOG.md
+
+Name: Scorch
+
+AllowedAPKSigningKeys: 607117b135d6e41f27c0f93a6497be6885a1074798d9ec2d5d5fad1872437f28
+
+AutoUpdateMode: None
+UpdateCheckMode: None

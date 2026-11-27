@@ -5,11 +5,12 @@
 <h1 align="center">HexRelic F-Droid repository</h1>
 
 Apps by HexRelic, ready to install and update from any F-Droid client (F-Droid, Droid-ify,
-Neo Store).
+Neo Store). More about each app on [hexrelic.github.io](https://hexrelic.github.io/).
 
 | App | What it does | Source |
 |---|---|---|
 | WitnessClip | Records audio and seals it so anyone can check it hasn't been edited | [HexRelic/WitnessClip](https://github.com/HexRelic/WitnessClip) |
+| Scorch | Shreds files offline: overwrites them before deleting, wipes free space, strips photo metadata | [HexRelic/scorch](https://github.com/HexRelic/scorch) |
 
 ## Add this repository
 
@@ -35,6 +36,6 @@ the client checks the fingerprint the first time it connects.
 
 ## What is published here
 
-Only the APKs released on each app's GitHub page, unmodified and signed by their developer. The
+Only the APKs released on each app's GitHub page, unmodified and signed by HexRelic. The
 repository index is signed with a separate key. Every APK is checked against the app's own
 signing certificate before it is listed, so an APK signed by anyone else is refused.
