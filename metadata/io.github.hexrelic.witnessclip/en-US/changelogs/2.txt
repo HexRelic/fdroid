@@ -1,0 +1,6 @@
+Fixes.
+
+• A sudden power cut during a recording now loses at most the last 5 seconds
+• Stricter verifier: damaged or altered files always fail the check, and never stop it
+• The verifier refuses audio that other players would skip or play differently
+• Adding the closing timestamps keeps the file's tags and other metadata

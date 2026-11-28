@@ -1,0 +1,6 @@
+Correzioni.
+
+• Uno spegnimento improvviso durante la registrazione fa perdere al massimo gli ultimi 5 secondi
+• Verifica più rigorosa: i file danneggiati o alterati non superano mai il controllo e non lo bloccano
+• Il verificatore rifiuta l'audio che altri lettori salterebbero o riprodurrebbero in modo diverso
+• L'aggiunta delle marche temporali finali conserva i tag e gli altri metadati del file
